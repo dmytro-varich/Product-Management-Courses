@@ -2,8 +2,7 @@
 
 <img width="1920" height="1138" alt="image" src="https://github.com/user-attachments/assets/f36e0812-c8b3-4b80-aeff-9d44fa9a4e6f" />
 
-[Telegram](https://web.telegram.org/) is a cross-platform messenger founded in 2013 by Pavel and Nikolai Durov.  
-The app allows users to exchange text, voice, and video messages, as well as stickers, photos, and files of many formats.  
+[Telegram](https://web.telegram.org/) is a cross-platform messenger founded in 2013 by Pavel and Nikolai Durov. The app allows users to exchange text, voice, and video messages, as well as stickers, photos, and files of many formats.  
 
 ---
 
@@ -13,7 +12,7 @@ The app allows users to exchange text, voice, and video messages, as well as sti
 - **MVP / prototype:** A simple messenger with basic messaging functionality, using the [MTProto](https://en.wikipedia.org/wiki/MTProto) encryption protocol.  
 - **Core of the product:** Secure and private messaging between users.  
 - **The product itself:** A minimalist interface for convenient message exchange.  
-- **Extra:** Initially available only on iOS devices.  
+- **Extra:** Initially available only on [iOS](https://telegram.org/dl/ios) devices.  
 
 ---
 
