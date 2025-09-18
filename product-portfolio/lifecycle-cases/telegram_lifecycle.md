@@ -107,6 +107,9 @@ The ecosystem surrounding Telegram is evolving and may become a **“lifeline”
 
 ## TON Ecosystem
 
+<img width="2500" height="958" alt="image" src="https://github.com/user-attachments/assets/201f33b8-31a8-4711-b47c-d59c3801b55f" />
+
+
 **TON (The Open Network)** is a blockchain platform originally developed by the Telegram team as a scalable, high-speed decentralized network for millions of users.  
 
 ### What is TON
@@ -137,4 +140,5 @@ The ecosystem surrounding Telegram is evolving and may become a **“lifeline”
 1. [Telegram — Wikipedia](https://en.wikipedia.org/wiki/Telegram_(software))  
 2. [ChatGPT](https://chatgpt.com/)  
 3. [Telegram](https://telegram.org/)  
-4. [Pavel Durov Channel](https://t.me/durov)  
+4. [Pavel Durov Channel](https://t.me/durov)
+5. [TON's Website](https://ton.org/en)
